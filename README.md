@@ -152,8 +152,8 @@ const jorge = {
 ## GitHub activity · Actividad en GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yassper8312&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Jorge's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yassper8312&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages in Jorge's public repositories" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yassp8312&theme=tokyonight" alt="Jorge's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yassp8312&theme=tokyonight" alt="Most used languages in Jorge's public repositories" />
 </div>
 
 <sub>Language statistics reflect public repositories, not proficiency or experience.</sub>
@@ -167,7 +167,7 @@ Creo que las mejores ideas crecen mediante la comunicación y la colaboración. 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jorgecintra2%40gmail.com-6C63FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgecintra2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Yassper8312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassper8312)
+[![GitHub](https://img.shields.io/badge/GitHub-Yassp8312-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yassp8312)
 
 ### “The next impossible thing is just the next problem waiting to be solved.”
 
